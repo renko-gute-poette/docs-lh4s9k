@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-7nbrht.radarsatu88.sbs/sitemap.xml
